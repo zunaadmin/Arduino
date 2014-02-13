@@ -26,7 +26,7 @@
 #include <Wire.h>
 #include <avr/pgmspace.h>
 #include <WProgram.h>
-#include "PCF8591.h"
+#include "pcf8591.h"
 #include <Arduino.h>
 
 /*** Method      : begin
